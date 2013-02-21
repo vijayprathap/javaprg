@@ -50,11 +50,11 @@ public class Indexer {
 		}
 	}
 	
-	public static void main(String args[]){
+	/*public static void main(String args[]){
 		Indexer i = new Indexer();
 		i.parse("/home/vijaiya/Desktop/test.txt");
 		
 		System.out.println(i.getValue("aldrig1"));
 		
-	}
+	}*/
 }
